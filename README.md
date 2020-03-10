@@ -4,15 +4,17 @@
 Analysing human activities within a defined space, collecting and storing data of these activities by using detection and tracking algorithms and utilizing the collected data to implement it in processes of space optimization
 
 ![Final presentation (1)](https://user-images.githubusercontent.com/57528373/76356354-1a4e7080-6316-11ea-8ee5-429ab442cb1e.png)
-
-
+------------
 ### Objectives
 *Use technology to our advantage to collect and store data of activities that are performed within a defined space.*
 ![Final presentation 3](https://user-images.githubusercontent.com/57528373/76356363-1de1f780-6316-11ea-8268-58a6bcfced63.png)
-
+------------
 ### Experimentation Area
 *Testing space : a working environment that facilitates multiple activities throughout the day.*
 ![Final presentation 4](https://user-images.githubusercontent.com/57528373/76356366-1fabbb00-6316-11ea-863a-6f80564f9d16.png)
+------------
+### Current Methods
+*Showcasing some current methods of how spatial analysis is currently being evaluated*
 ![Final presentation 5](https://user-images.githubusercontent.com/57528373/76356376-220e1500-6316-11ea-9bd4-c3de69fea49c.png)
 ![Final presentation 11](https://user-images.githubusercontent.com/57528373/76356515-5a155800-6316-11ea-91b4-e0d40b815f61.png)
 ![Final presentation 12](https://user-images.githubusercontent.com/57528373/76356533-626d9300-6316-11ea-978c-75e42798dadd.png)
