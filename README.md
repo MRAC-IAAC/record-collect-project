@@ -19,6 +19,8 @@ Showcasing some current methods of how spatial analysis is currently being evalu
 
 ### Initial Approach: Optical Flow
 To extract data for out analysis we initially used "Optical Flow". Optical flow or optic flow is the pattern of apparent motion of objects, surfaces, and edges in a visual scene caused by the relative motion between an observer and a scene.
+![Final presentation 7](https://user-images.githubusercontent.com/57528373/76368819-b9cd2c80-6331-11ea-8cc4-21a9d6189568.png)
+
 ![Final presentation 11](https://user-images.githubusercontent.com/57528373/76356515-5a155800-6316-11ea-91b4-e0d40b815f61.png)
 
 ![Final presentation 12](https://user-images.githubusercontent.com/57528373/76356533-626d9300-6316-11ea-978c-75e42798dadd.png)
