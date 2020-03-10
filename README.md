@@ -16,7 +16,11 @@ Testing space : a working environment that facilitates multiple activities throu
 ### Current Methods
 Showcasing some current methods of how spatial analysis is currently being evaluated
 ![Final presentation 5](https://user-images.githubusercontent.com/57528373/76356376-220e1500-6316-11ea-9bd4-c3de69fea49c.png)
+
+### Initial Approach: Optical Flow
+To extract data for out analysis we initially used "Optical Flow". Optical flow or optic flow is the pattern of apparent motion of objects, surfaces, and edges in a visual scene caused by the relative motion between an observer and a scene.
 ![Final presentation 11](https://user-images.githubusercontent.com/57528373/76356515-5a155800-6316-11ea-91b4-e0d40b815f61.png)
+
 ![Final presentation 12](https://user-images.githubusercontent.com/57528373/76356533-626d9300-6316-11ea-978c-75e42798dadd.png)
 ![Final presentation 13](https://user-images.githubusercontent.com/57528373/76356526-5f72a280-6316-11ea-9e00-ea0d03937da2.png)
 ![Final presentation 14](https://user-images.githubusercontent.com/57528373/76356553-6a2d3780-6316-11ea-8b81-40254eb9e98e.png)
