@@ -2,6 +2,8 @@
 ## IAAC MRAC 19-20 // Hardware II // Group 03
 
 Analysing human activities within a defined space, collecting and storing data of these activities by using detection and tracking algorithms and utilizing the collected data to implement it in processes of space optimization
+Testing space : a working environment that facilitates multiple activities throughout the day.
+
 
 ![Final presentation (1)](https://user-images.githubusercontent.com/57528373/76356354-1a4e7080-6316-11ea-8ee5-429ab442cb1e.png)
 ------------
