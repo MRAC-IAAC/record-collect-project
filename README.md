@@ -5,6 +5,10 @@ Analysing human activities within a defined space, collecting and storing data o
 
 ![Final presentation (1)](https://user-images.githubusercontent.com/57528373/76356354-1a4e7080-6316-11ea-8ee5-429ab442cb1e.png)
 
+### Before Detection and Tracking Algorithms
+Example of tracking activities of people, observing, analysing and using that data to optimize the space so that it enhances the operation of those activities
+[Speedee Service System](https://www.youtube.com/watch?time_continue=2&v=jTageuhPfAM&feature=emb_logo)
+
 ### Objectives
 Use technology to our advantage to collect and store data of activities that are performed within a defined space.
 ![Final presentation 3](https://user-images.githubusercontent.com/57528373/76356363-1de1f780-6316-11ea-8268-58a6bcfced63.png)
