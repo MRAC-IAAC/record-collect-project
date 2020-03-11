@@ -61,7 +61,7 @@ YOLO performs object detection by creating a rectangular grid throughout the ent
 ![Final presentation 18](https://user-images.githubusercontent.com/57528373/76370299-b25c5200-6336-11ea-9109-a1a102ad1195.png)
 ![Final presentation 19](https://user-images.githubusercontent.com/57528373/76356564-70bbaf00-6316-11ea-9711-e3ea7508a889.png)
 ![Final presentation 20](https://user-images.githubusercontent.com/57528373/76356565-72857280-6316-11ea-8782-9c9ec77d53e8.png)
-![Final presentation 21](https://user-images.githubusercontent.com/57528373/76356577-76b19000-6316-11ea-8572-1c2303fe50c5.png
+![Final presentation 21](https://user-images.githubusercontent.com/57528373/76356577-76b19000-6316-11ea-8572-1c2303fe50c5.png)
 
 ### Workflow
 ![Final presentation 22](https://user-images.githubusercontent.com/57528373/76356579-787b5380-6316-11ea-89ca-0e629f5c1978.png)
