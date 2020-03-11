@@ -29,6 +29,7 @@ Optical Flow finds points of interest in a frame and tracks those points.
 
 ### Initial Experiment - Outcome
 However, there is no control on the location of those points. Optical flow does not isolate object that are moving (people, animals, furniture etc.) In addition, reflections and shadows of a moving object are also becoming part of the trajectory. With Optical flow, while the trajectory of a moving object is being tracked, the end result becomes uncontrollable and noisy.
+
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/57528373/76369788-05cda080-6335-11ea-9fca-5d861e3a56db.gif)
 
 
