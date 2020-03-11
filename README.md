@@ -99,12 +99,12 @@ Here you can see the difference between the points from the video and when we ma
 ### Test 02: 
 After mapping the points we started generating a heatmap.
 1. divide space into grid
-2.count point in each square
-2. assign color to square by the number of points that are in it
+2. count point in each square
+3. assign color to square by the number of points that are in it
 ![testo2a](https://user-images.githubusercontent.com/57528373/76424739-ecfed280-63a8-11ea-8737-44c3f754eeb8.png)
 
 
-
+EEEEEEEEEE
 ----------------------------------------------
 
 ### Process(EDIT)
