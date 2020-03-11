@@ -54,8 +54,13 @@ COCO dataset is trained on 200,000 images of 80 different categories (person, su
 ### Tools
 ![tools](https://user-images.githubusercontent.com/57528373/76411694-9c7c7a80-6392-11ea-808e-70c0282fdcd7.png)
 
-### Methodology
-![Final presentation 17](https://user-images.githubusercontent.com/57528373/76370297-b25c5200-6336-11ea-9e14-af760adcf806.png)
+### Data Extraction - Methodology
+We Input a video into the YOLO network. YOLOv2 trained on COCO dataset performs the object detection and localization. We create and output video through which we are able to visualize the detections with the Class IDs and confidences for each single detection. In addition, we use the algorithm to store points (x,y) in empty lists that we created and export them in a .csv file that we can later use to get the positions of the tracked objects.
+![data ext](https://user-images.githubusercontent.com/57528373/76416360-3b0cd980-639b-11ea-9b44-d1935a3c3b02.png)
+
+### Data Visualization - Methodology
+
+![data vis](https://user-images.githubusercontent.com/57528373/76416546-963ecc00-639b-11ea-93a9-3b9b451ea0ef.png)
 
 ### Workflow
 ![workflow](https://user-images.githubusercontent.com/57528373/76411901-03019880-6393-11ea-94d5-c0f7b7cc5dd3.png)
