@@ -7,7 +7,9 @@ Analysing human activities within a defined space, collecting and storing data o
 
 ### Before Detection and Tracking Algorithms
 Example of tracking activities of people, observing, analysing and using that data to optimize the space so that it enhances the operation of those activities
-[Speedee Service System](https://www.youtube.com/watch?time_continue=2&v=jTageuhPfAM&feature=emb_logo)
+
+[![](http://img.youtube.com/vi/jTageuhPfAM/0.jpg)](http://www.youtube.com/watch?v=jTageuhPfAM "Speedee Service System")
+
 
 ### Objectives
 Use technology to our advantage to collect and store data of activities that are performed within a defined space.
