@@ -93,6 +93,7 @@ Homography process:Relating two images, or in our case sets of points, by defini
 ### Test 01:
 This is one of the first videos we used to test this process:
 ![fafa](https://user-images.githubusercontent.com/57528373/76413318-7dcbb300-6395-11ea-98b8-3dd5f40e1794.gif)
+
 Here you can see the difference between the points from the video and when we map them to the floor plan:
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/57528373/76414504-bf5d5d80-6397-11ea-95a3-aaef98dacfb8.gif)
 
