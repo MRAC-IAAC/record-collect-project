@@ -77,17 +77,15 @@ The video output is necessary to visualize the data. However, to map the data fr
 ### Workflow
 ![workflow22](https://user-images.githubusercontent.com/57528373/76412410-dac66980-6393-11ea-865e-15e7f69a7852.png)
 
-### Process
-![Final presentation 18](https://user-images.githubusercontent.com/57528373/76370299-b25c5200-6336-11ea-9109-a1a102ad1195.png)
-![Final presentation 19](https://user-images.githubusercontent.com/57528373/76356564-70bbaf00-6316-11ea-9711-e3ea7508a889.png)
-![Final presentation 20](https://user-images.githubusercontent.com/57528373/76356565-72857280-6316-11ea-8782-9c9ec77d53e8.png)
-![Final presentation 21](https://user-images.githubusercontent.com/57528373/76356577-76b19000-6316-11ea-8572-1c2303fe50c5.png)
+### Process(EDIT)
+![process25](https://user-images.githubusercontent.com/57528373/76412679-4a3c5900-6394-11ea-9e17-3b03b331e503.png)
 
-### Workflow
-![Final presentation 22](https://user-images.githubusercontent.com/57528373/76356579-787b5380-6316-11ea-89ca-0e629f5c1978.png)
-![Final presentation 23](https://user-images.githubusercontent.com/57528373/76356585-7c0eda80-6316-11ea-93f0-fb8588613cf4.png)
+### Tools
+![tools27](https://user-images.githubusercontent.com/57528373/76412748-748e1680-6394-11ea-9299-1952a7687147.png)
 
-### Test 02: Generating Heatmap
-![Final presentation 27](https://user-images.githubusercontent.com/57528373/76356600-80d38e80-6316-11ea-9e67-a61caa7c4e95.png)
-![Final presentation 28](https://user-images.githubusercontent.com/57528373/76356605-8335e880-6316-11ea-9364-eb9d4b368e54.png)
+### Test 01
+![fafa](https://user-images.githubusercontent.com/57528373/76413318-7dcbb300-6395-11ea-98b8-3dd5f40e1794.gif)
+
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/57528373/76414504-bf5d5d80-6397-11ea-95a3-aaef98dacfb8.gif)
+
 
