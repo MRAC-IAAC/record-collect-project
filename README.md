@@ -32,21 +32,42 @@ However, there is no control on the location of those points. Optical flow does 
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/57528373/76369788-05cda080-6335-11ea-9fca-5d861e3a56db.gif)
 
-
 ### Object Detection
 This lead us into object detection. There are several object detectors. One of the first being R-CNN. However, RCNN is very slow because it extracts proposals from different regions of the input image, computes features by using a large CNN and classifies each region. 
 ![Final presentation 11](https://user-images.githubusercontent.com/57528373/76356515-5a155800-6316-11ea-91b4-e0d40b815f61.png)
-### *Y*ou *O*nly *L*ook *O*nce
+
+### YOLO
 We chose to use YOLO, which is faster since we are using videos and we can get a speed of 45 Frames per Second. In addition, YOLO achieves object detection, classification and localization trained on a specific dataset.
 ![Final presentation 12](https://user-images.githubusercontent.com/57528373/76356533-626d9300-6316-11ea-978c-75e42798dadd.png)
+
+### COCO Dataset
+COCO dataset is trained on 200,000 images of 80 different categories (person, suitcase, umbrella, horse etc…). It Contains images, bounding boxes and 80 labels. COCO can be used for both object detection, and segmentation, we are using it for detecting people.
 ![Final presentation 13](https://user-images.githubusercontent.com/57528373/76356526-5f72a280-6316-11ea-9e00-ea0d03937da2.png)
+
+### OpenCV
 ![Final presentation 14](https://user-images.githubusercontent.com/57528373/76356553-6a2d3780-6316-11ea-8b81-40254eb9e98e.png)
+
+### How YOLO works
+YOLO performs object detection by creating a rectangular grid throughout the entire image. Then creates bounding boxes based on (x,y) coordinates. Class probability gets mappedby  using random color assignment. To filter out weak detections, a 50% confidence is being used (this can change) which helps eliminate unnecessary boxes. (Right) this is what an output image looks like after being put through the neural network
 ![Final presentation 15](https://user-images.githubusercontent.com/57528373/76356555-6bf6fb00-6316-11ea-951e-05d4a5d83503.png)
+
+### Tools
+![Final presentation 16](https://user-images.githubusercontent.com/57528373/76370296-b1c3bb80-6336-11ea-85c0-10334c48a7d4.png)
+
+### Methodology
+![Final presentation 17](https://user-images.githubusercontent.com/57528373/76370297-b25c5200-6336-11ea-9e14-af760adcf806.png)
+
+### Process
+![Final presentation 18](https://user-images.githubusercontent.com/57528373/76370299-b25c5200-6336-11ea-9109-a1a102ad1195.png)
 ![Final presentation 19](https://user-images.githubusercontent.com/57528373/76356564-70bbaf00-6316-11ea-9711-e3ea7508a889.png)
 ![Final presentation 20](https://user-images.githubusercontent.com/57528373/76356565-72857280-6316-11ea-8782-9c9ec77d53e8.png)
-![Final presentation 21](https://user-images.githubusercontent.com/57528373/76356577-76b19000-6316-11ea-8572-1c2303fe50c5.png)
+![Final presentation 21](https://user-images.githubusercontent.com/57528373/76356577-76b19000-6316-11ea-8572-1c2303fe50c5.png
+
+### Workflow
 ![Final presentation 22](https://user-images.githubusercontent.com/57528373/76356579-787b5380-6316-11ea-89ca-0e629f5c1978.png)
 ![Final presentation 23](https://user-images.githubusercontent.com/57528373/76356585-7c0eda80-6316-11ea-93f0-fb8588613cf4.png)
+
+### Test 02: Generating Heatmap
 ![Final presentation 27](https://user-images.githubusercontent.com/57528373/76356600-80d38e80-6316-11ea-9e67-a61caa7c4e95.png)
 ![Final presentation 28](https://user-images.githubusercontent.com/57528373/76356605-8335e880-6316-11ea-9364-eb9d4b368e54.png)
 
