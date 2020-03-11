@@ -67,8 +67,7 @@ YOLO performs object detection by creating a rectangular grid throughout the ent
 ![how yolo works](https://user-images.githubusercontent.com/57528373/76411975-21679400-6393-11ea-88cf-6b6ba399cea4.png)
 
 ### Filtering Out ClassIDs
-![classiad](https://user-images.githubusercontent.com/57528373/76421701-5b8d6180-63a4-11ea-8d8c-6e1097729775.png)
-
+![classiad](https://user-images.githubusercontent.com/57528373/76422008-d5bde600-63a4-11ea-889f-e9127c7191bd.png)
 ### Tools
 ![tools20](https://user-images.githubusercontent.com/57528373/76412144-64296c00-6393-11ea-80ba-c96332baf315.png)
 
