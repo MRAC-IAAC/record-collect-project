@@ -92,5 +92,6 @@ Generating occupany heatmap
 ![test02](https://user-images.githubusercontent.com/57528373/76414628-ff244500-6397-11ea-93ca-0329d02e0b23.png)
 ![test02a](https://user-images.githubusercontent.com/57528373/76414632-00557200-6398-11ea-9ef0-829899f50455.png)
 
-
+### Failures: 
+![aaa](https://user-images.githubusercontent.com/57528373/76416144-cc2f8080-639a-11ea-91c6-7867cc624e88.gif)
 
