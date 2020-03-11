@@ -1,9 +1,9 @@
-# Space Optimization
+# RECORD  - -  COLLECT  - -   PROJECT
 ## IAAC MRAC 19-20 // Hardware II // Group 03
 
 Analysing human activities within a defined space, collecting and storing data of these activities by using detection and tracking algorithms and utilizing the collected data to implement it in processes of space optimization
 
-![Final presentation (1)](https://user-images.githubusercontent.com/57528373/76356354-1a4e7080-6316-11ea-8ee5-429ab442cb1e.png)
+![Final presentation (1)](https://user-images.githubusercontent.com/57528373/76433126-2e48af80-63b4-11ea-9dd7-b31a9cc037c1.png)
 
 ### Before Detection and Tracking Algorithms
 Example of tracking activities of people, observing, analysing and using that data to optimize the space so that it enhances the operation of those activities
