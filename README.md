@@ -19,7 +19,7 @@ Use technology to our advantage to collect and store data of activities that are
 Testing space : a working environment that facilitates multiple activities throughout the day.
 ![Final presentation 4](https://user-images.githubusercontent.com/57528373/76411340-eadd4980-6391-11ea-8fb1-e2dd0f550e9e.png)
 
-### Current Methods
+### Current Methods 
 Showcasing some current methods of how spatial analysis is currently being evaluated
 ![Final presentation 5](https://user-images.githubusercontent.com/57528373/76356376-220e1500-6316-11ea-9bd4-c3de69fea49c.png)
 
