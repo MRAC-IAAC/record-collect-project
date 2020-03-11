@@ -83,9 +83,14 @@ The video output is necessary to visualize the data. However, to map the data fr
 ### Tools
 ![tools27](https://user-images.githubusercontent.com/57528373/76412748-748e1680-6394-11ea-9299-1952a7687147.png)
 
-### Test 01
+### Test 01:
 ![fafa](https://user-images.githubusercontent.com/57528373/76413318-7dcbb300-6395-11ea-98b8-3dd5f40e1794.gif)
-
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/57528373/76414504-bf5d5d80-6397-11ea-95a3-aaef98dacfb8.gif)
+
+### Test 02: 
+Generating occupany heatmap
+![test02](https://user-images.githubusercontent.com/57528373/76414628-ff244500-6397-11ea-93ca-0329d02e0b23.png)
+![test02a](https://user-images.githubusercontent.com/57528373/76414632-00557200-6398-11ea-9ef0-829899f50455.png)
+
 
 
