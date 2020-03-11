@@ -22,8 +22,21 @@ To extract data for out analysis we initially used "Optical Flow". Optical flow 
 ![sparse-vs-dense](https://user-images.githubusercontent.com/57528373/76368925-16c8e280-6332-11ea-9c24-d7cc4791345b.gif)
 >Left: Sparse Optical Flow - track a few "feature" pixels; Right: Dense Optical Flow - estimate the flow of all pixels in the image.
 
-![Final presentation 11](https://user-images.githubusercontent.com/57528373/76356515-5a155800-6316-11ea-91b4-e0d40b815f61.png)
+### What is "Optical Flow"?
+Optical Flow finds points of interest in a frame and tracks those points. 
+![Final presentation 8](https://user-images.githubusercontent.com/57528373/76369394-b0dd5a80-6333-11ea-8c31-3a1b62f08791.png)
 
+
+### Initial Experiment - Outcome
+However, there is no control on the location of those points. Optical flow does not isolate object that are moving (people, animals, furniture etc.) In addition, reflections and shadows of a moving object are also becoming part of the trajectory. With Optical flow, while the trajectory of a moving object is being tracked, the end result becomes uncontrollable and noisy.
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/57528373/76369788-05cda080-6335-11ea-9fca-5d861e3a56db.gif)
+
+
+### Object Detection
+This lead us into object detection. There are several object detectors. One of the first being R-CNN. However, RCNN is very slow because it extracts proposals from different regions of the input image, computes features by using a large CNN and classifies each region. 
+![Final presentation 11](https://user-images.githubusercontent.com/57528373/76356515-5a155800-6316-11ea-91b4-e0d40b815f61.png)
+### *Y*ou *O*nly *L*ook *O*nce
+We chose to use YOLO, which is faster since we are using videos and we can get a speed of 45 Frames per Second. In addition, YOLO achieves object detection, classification and localization trained on a specific dataset.
 ![Final presentation 12](https://user-images.githubusercontent.com/57528373/76356533-626d9300-6316-11ea-978c-75e42798dadd.png)
 ![Final presentation 13](https://user-images.githubusercontent.com/57528373/76356526-5f72a280-6316-11ea-9e00-ea0d03937da2.png)
 ![Final presentation 14](https://user-images.githubusercontent.com/57528373/76356553-6a2d3780-6316-11ea-8b81-40254eb9e98e.png)
