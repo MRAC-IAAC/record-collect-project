@@ -98,5 +98,12 @@ Generating occupany heatmap
 ![test02a](https://user-images.githubusercontent.com/57528373/76414632-00557200-6398-11ea-9ef0-829899f50455.png)
 
 ### Failures: 
-![aaa](https://user-images.githubusercontent.com/57528373/76416144-cc2f8080-639a-11ea-91c6-7867cc624e88.gif)
+![1](https://user-images.githubusercontent.com/57528373/76421070-65629500-63a3-11ea-8c91-dfd3e00b8483.gif)
+![2](https://user-images.githubusercontent.com/57528373/76420932-33e9c980-63a3-11ea-8084-1343f818c372.gif)
+![3](https://user-images.githubusercontent.com/57528373/76420881-1e749f80-63a3-11ea-9df3-a27060586f12.gif)
+![4](https://user-images.githubusercontent.com/57528373/76420882-1fa5cc80-63a3-11ea-90b0-874d4095d62c.gif)
+![5](https://user-images.githubusercontent.com/57528373/76420884-203e6300-63a3-11ea-9207-306a1bb60408.gif)
+![6](https://user-images.githubusercontent.com/57528373/76420885-20d6f980-63a3-11ea-9716-a7b2925b6a6e.gif)
+![7](https://user-images.githubusercontent.com/57528373/76420887-216f9000-63a3-11ea-80dc-6701345e5084.gif)
+![8](https://user-images.githubusercontent.com/57528373/76420890-22082680-63a3-11ea-8543-e5444addfa07.gif)
 
