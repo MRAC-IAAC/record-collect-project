@@ -28,12 +28,11 @@ Optical Flow finds points of interest in a frame and tracks those points.
 
 ### Initial Experiment - Outcome
 However, there is no control on the location of those points. Optical flow does not isolate object that are moving (people, animals, furniture etc.) In addition, reflections and shadows of a moving object are also becoming part of the trajectory. With Optical flow, while the trajectory of a moving object is being tracked, the end result becomes uncontrollable and noisy.
-
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/57528373/76369788-05cda080-6335-11ea-9fca-5d861e3a56db.gif)
+![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/57528373/76372089-9f4c8080-633c-11ea-9f04-68b6aba66824.gif)
 
 ### Object Detection
 This lead us into object detection. There are several object detectors. One of the first being R-CNN. However, RCNN is very slow because it extracts proposals from different regions of the input image, computes features by using a large CNN and classifies each region. 
-![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/57528373/76372089-9f4c8080-633c-11ea-9f04-68b6aba66824.gif)
+![Final presentation 11](https://user-images.githubusercontent.com/57528373/76372198-eb97c080-633c-11ea-84a6-45cff397c625.png)
 
 ### YOLO
 We chose to use YOLO, which is faster since we are using videos and we can get a speed of 45 Frames per Second. In addition, YOLO achieves object detection, classification and localization trained on a specific dataset.
