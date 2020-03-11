@@ -33,7 +33,7 @@ However, there is no control on the location of those points. Optical flow does 
 
 ### Object Detection
 This lead us into object detection. There are several object detectors. One of the first being R-CNN. However, RCNN is very slow because it extracts proposals from different regions of the input image, computes features by using a large CNN and classifies each region. 
-![Final presentation 11](https://user-images.githubusercontent.com/57528373/76356515-5a155800-6316-11ea-91b4-e0d40b815f61.png)
+![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/57528373/76372089-9f4c8080-633c-11ea-9f04-68b6aba66824.gif)
 
 ### YOLO
 We chose to use YOLO, which is faster since we are using videos and we can get a speed of 45 Frames per Second. In addition, YOLO achieves object detection, classification and localization trained on a specific dataset.
