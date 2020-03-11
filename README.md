@@ -115,6 +115,10 @@ Here you can see the difference between the points from the video and when we ma
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/57528373/76414504-bf5d5d80-6397-11ea-95a3-aaef98dacfb8.gif)
 
 ### Test 02: 
+In the later tests, we started working in the space upstairs:
+
+![eee](https://user-images.githubusercontent.com/57528373/76430691-e411ff00-63b0-11ea-92c6-7c4c7e456fbb.gif)
+
 After mapping the points we started generating a heatmap.
 1. divide space into grid
 2. count point in each square
