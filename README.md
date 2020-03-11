@@ -62,22 +62,19 @@ We Input a video into the YOLO network. YOLOv2 trained on COCO dataset performs 
 
 ![data vis](https://user-images.githubusercontent.com/57528373/76416546-963ecc00-639b-11ea-93a9-3b9b451ea0ef.png)
 
-### Workflow
-![workflow](https://user-images.githubusercontent.com/57528373/76411901-03019880-6393-11ea-94d5-c0f7b7cc5dd3.png)
-
 ### How YOLO Works
 YOLO performs object detection by creating a rectangular grid throughout the entire image. Then creates bounding boxes based on (x,y) coordinates. Class probability gets mappedby  using random color assignment. To filter out weak detections, a 50% confidence is being used (this can change) which helps eliminate unnecessary boxes. (Right) this is what an output image looks like after being put through the neural network
 ![how yolo works](https://user-images.githubusercontent.com/57528373/76411975-21679400-6393-11ea-88cf-6b6ba399cea4.png)
 
-### Filtering Out Unnecessary Detections
-![filtering out](https://user-images.githubusercontent.com/57528373/76412046-3e03cc00-6393-11ea-804b-0f82dc1dca8e.png)
+### Filtering Out ClassIDs
+![classiad](https://user-images.githubusercontent.com/57528373/76421701-5b8d6180-63a4-11ea-8d8c-6e1097729775.png)
 
 ### Tools
 ![tools20](https://user-images.githubusercontent.com/57528373/76412144-64296c00-6393-11ea-80ba-c96332baf315.png)
 
 ### Mapping of Data -- Methodology
 The video output is necessary to visualize the data. However, to map the data from a video, we need a process that can map those points on a 2D plan. We use Homography inside Grasshopper to read and process the files that contain the list of (x,y) coordinates.
-![mapping of data](https://user-images.githubusercontent.com/57528373/76412293-a9e63480-6393-11ea-834f-3a6080d66873.png)
+![mapping of data](https://user-images.githubusercontent.com/57528373/76421856-97282b80-63a4-11ea-9033-f8619ac8d3ea.png)
 
 ### Workflow
 ![workflow22](https://user-images.githubusercontent.com/57528373/76412410-dac66980-6393-11ea-865e-15e7f69a7852.png)
