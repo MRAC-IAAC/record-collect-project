@@ -71,7 +71,7 @@ YOLO performs object detection by creating a rectangular grid throughout the ent
 
 ### Mapping of Data -- Methodology
 The video output is necessary to visualize the data. However, to map the data from a video, we need a process that can map those points on a 2D plan. We use Homography inside Grasshopper to read and process the files that contain the list of (x,y) coordinates.
-![mapping of data](https://user-images.githubusercontent.com/57528373/76421856-97282b80-63a4-11ea-9033-f8619ac8d3ea.png)
+![map20](https://user-images.githubusercontent.com/57528373/76427708-effbc200-63ac-11ea-9306-752378857b3b.png)
 
 ### Failures: 
 ![1](https://user-images.githubusercontent.com/57528373/76421070-65629500-63a3-11ea-8c91-dfd3e00b8483.gif)
@@ -87,7 +87,7 @@ The video output is necessary to visualize the data. However, to map the data fr
 What we need for the homography process: 3 types of points
 ![workflow22](https://user-images.githubusercontent.com/57528373/76424067-094e3f80-63a8-11ea-8f02-d56dd8a2ab93.png)
 
-Homography process:Relating two images, or in our case sets of points, by defining a plane they have in common which we do by using markers. Then the points from the video are mapped to the floor plan and we can start generating the heatmap.
+Homography process: Relating two images, or in our case sets of points, by defining a plane they have in common which we do by using markers. Then the points from the video are mapped to the floor plan and we can start generating the heatmap.
 ![workflow23](https://user-images.githubusercontent.com/57528373/76424220-3dc1fb80-63a8-11ea-992e-972451ece0d7.png)
 
 ### Test 01:
@@ -104,12 +104,10 @@ After mapping the points we started generating a heatmap.
 3. assign color to square by the number of points that are in it
 ![testo2a](https://user-images.githubusercontent.com/57528373/76424739-ecfed280-63a8-11ea-8737-44c3f754eeb8.png)
 
+### Test 03: 
+The result displays which areas of the space are being used more frequently. We tend to use this information in the design process and to be able to generate floor plans based on activity after analysing the results based on a bigger dataset.
+![testo3](https://user-images.githubusercontent.com/57528373/76427867-318c6d00-63ad-11ea-9af4-1d152bcd4d44.png)
 
-EEEEEEEEEE
-----------------------------------------------
+### Summary: 
+![summary](https://user-images.githubusercontent.com/57528373/76428055-757f7200-63ad-11ea-84cf-f707521df9c5.png)
 
-### Process(EDIT)
-![process25](https://user-images.githubusercontent.com/57528373/76412679-4a3c5900-6394-11ea-9e17-3b03b331e503.png)
-
-### Tools
-![tools27](https://user-images.githubusercontent.com/57528373/76412748-748e1680-6394-11ea-9299-1952a7687147.png)
